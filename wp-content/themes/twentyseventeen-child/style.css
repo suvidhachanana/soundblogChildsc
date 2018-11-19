@@ -1,0 +1,50 @@
+/*
+Theme Name: Twenty Seventeen Child Theme
+Theme URI: 
+Description: A child theme of Twenty Seventeen
+Author: MeganWilson
+Author URI: <your website>
+Template: twentyseventeen
+Version: 0.1.0
+*/
+
+/*test*/
+p {
+    color: red;
+    font-family: "pt-serif";
+}
+
+/* .site-title {
+    font-family: Roboto;
+} */
+.site-info {
+	display:none;
+}
+.site-branding {
+	display:none;
+}
+.metaslider .caption,
+.metaslide .on-title,
+.metaslider .nivo-caption {
+	font-size: 0.75em
+}
+label
+{
+    
+color: #767676;
+    
+font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+font-size: 16px;
+font-weight: 400
+}
+
+submit 
+{
+	background-color: #767676;
+}
+.wpex-timeline-list.show-icon .wpex-timeline > li .wpex-content-left .wpex-leftdate div span:first-child {
+    display: block;
+    font-size: 40px;
+    margin-bottom: 3px;
+    padding-top: 3px;
+}
